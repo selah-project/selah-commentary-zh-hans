@@ -14,3 +14,9 @@ Selah 的英文译本（英文译本则译自公有领域的希伯来原文）�
 
 [Selah 项目](https://selahproject.org)的一部分。
 许可协议：[CC BY-SA 4.0](LICENSE.md)。
+
+## 支持 Selah
+
+这些译本依照 CC BY-SA 4.0 保持开放。如果这项工作对你有帮助，并且你愿意
+帮助承担翻译、校订、发布与持续工作的需要，请访问
+[selahproject.com/support](https://selahproject.com/support)。
