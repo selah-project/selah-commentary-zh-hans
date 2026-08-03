@@ -20,3 +20,9 @@ Selah 的英文译本（英文译本则译自公有领域的希伯来原文）�
 这些译本依照 CC BY-SA 4.0 保持开放。如果这项工作对你有帮助，并且你愿意
 帮助承担翻译、校订、发布与持续工作的需要，请访问
 [selahproject.com/support](https://selahproject.com/support)。
+
+## 参与校订
+
+欢迎希伯来文读者、古典注释学习者和中文编辑参与。提交前请阅读
+[CONTRIBUTING.md](CONTRIBUTING.md)：校正 Selah 的译文，不等于悄悄改写
+注释家的原文。
