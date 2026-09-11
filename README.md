@@ -12,7 +12,7 @@ Selah 的英文译本（英文译本则译自公有领域的希伯来原文）�
 克利·雅卡尔 · 光明生命（Or HaChaim）· 拉贝努·巴希亚 · 拉姆班 ·
 拉什巴姆 · 斯福尔诺。
 
-[Selah 项目](https://selahproject.org)的一部分。
+[Selah 项目](https://selahproject.com)的一部分。
 许可协议：[CC BY-SA 4.0](LICENSE.md)。
 
 ## 支持 Selah
