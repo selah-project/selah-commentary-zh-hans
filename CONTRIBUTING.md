@@ -35,3 +35,8 @@
 [CC BY-SA 4.0](LICENSE.md) 发布。Git 历史保留署名与校订记录。维护者会依据
 希伯来原文、注释家的声音和所提供的证据审核建议。建议可能被采纳、共同
 修订、等待更多证据，或在说明理由后不予采纳。请保持准确、耐心和尊重。
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
